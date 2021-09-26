@@ -1,0 +1,20 @@
+body{
+    background:linear-gradient( to left top,#2E19F6,#33FFEB,#F64419,#19F65E) ;
+    color: cyan;
+    
+}
+.heading{
+    width: 80%;
+    font-size: large;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}
+#camera{
+    width: 350px;
+    height: 350px;
+    border: black;
+    border-style:dotted ;
+}
+.name_of_object,#result_object_name,#result_object_accuracy{
+    color: black;   
+}
+
